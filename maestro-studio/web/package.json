@@ -43,6 +43,7 @@
     "yaml": "^2.2.1"
   },
   "overrides": {
+    "glob": "11.1.0",
     "react-scripts": {
       "@svgr/webpack": "8.1.0",
       "postcss": "$postcss",
