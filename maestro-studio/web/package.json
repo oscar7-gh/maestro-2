@@ -44,6 +44,7 @@
   },
   "overrides": {
     "glob": "11.1.0",
+    "serialize-javascript": "6.0.2",
     "react-scripts": {
       "@svgr/webpack": "8.1.0",
       "postcss": "$postcss",
